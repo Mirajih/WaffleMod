@@ -1,5 +1,5 @@
-#Nothing here yet! I need to make some progress first.
-##I'm leaving all the markup stuff here for now because otherwise I will forget ^^
+# Nothing here yet! I need to make some progress first.
+## I'm leaving all the markup stuff here for now because otherwise I will forget ^^
 
 ## Welcome to GitHub Pages
 
