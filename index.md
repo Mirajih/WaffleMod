@@ -1,3 +1,6 @@
+#Nothing here yet! I need to make some progress first.
+##I'm leaving all the markup stuff here for now because otherwise I will forget ^^
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mirajih/WaffleMod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
