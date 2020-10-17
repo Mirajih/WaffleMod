@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wafflemod:item/blue_waffle"
+  }
+}

@@ -1,5 +1,6 @@
 package io.github.mirajih.wafflemod;
 
+import io.github.mirajih.wafflemod.init.ModItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
@@ -13,7 +14,7 @@ import net.minecraftforge.registries.IForgeRegistryEntry;
     @SubscribeEvent
     public static void onRegisterItems(RegistryEvent.Register<Item> event){
         event.getRegistry().registerAll(
-                setup(new Item(new Item.Properties()), "blue_waffle")
+                setup(new Item(new Item.Properties().group(ModItemGroup.MOD_ITEM_GROUP)), "blue_waffle")
         );
     }
 
